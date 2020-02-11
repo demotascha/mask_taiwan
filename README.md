@@ -1,6 +1,6 @@
 # Mask Taiwan
 
-![image](https://drive.google.com/uc?export=view&id=11ugfHT5l8z6ToCZm4bMDNAoDKmeJveIY)
+![image](https://storage.googleapis.com/mask-taiwan-2020/MaskTaiwan-Line.jpg)
 
 ## Proposal
 藉由 『我罩你』 LineBot，簡單找到醫療特約藥局口罩資訊。
@@ -45,7 +45,8 @@ DATA_RESOURCE_URL (from `https://raw.githubusercontent.com/kiang/pharmacies/mast
 ## 推廣時間
 
 - Linebot (https://lin.ee/tv207Kf)
-![image](https://qr-official.line.me/sid/M/777avahv.png)
+
+![image](https://storage.googleapis.com/mask-taiwan-2020/S.png)
 
 
 ### references:
