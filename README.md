@@ -44,6 +44,7 @@ DATA_RESOURCE_URL (from `https://raw.githubusercontent.com/kiang/pharmacies/mast
 
 ## 推廣時間
 
+- Youtube 簡易功能介紹：https://youtu.be/E0b1zDn1V_I
 - Linebot (https://lin.ee/tv207Kf)
 
 ![image](https://storage.googleapis.com/mask-taiwan-2020/S.png)
